@@ -1,0 +1,14 @@
+{
+  "name": "xunkong-helper",
+  "version": "1.0.0",
+  "description": "寻空帮助",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "docsify serve"
+  },
+  "dependencies": {
+    "docsify-cli": "latest"
+  }
+}
